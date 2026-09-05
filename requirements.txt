@@ -1,7 +1,8 @@
-pyTelegramBotAPI==4.16.0
-psutil==5.9.8
-requests==2.31.0
-Flask==3.0.2
-qrcode==7.4.2
-Pillow==10.2.0
-cryptography==42.0.5
+pyTelegramBotAPI
+psutil
+requests
+Flask
+qrcode
+Pillow
+cryptography
+gunicorn
