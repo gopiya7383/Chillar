@@ -1,1 +1,1 @@
-web: python hosting_bot_final.py
+worker: python host.py
